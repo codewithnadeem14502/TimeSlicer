@@ -1,6 +1,6 @@
 <h1 align="center" id="title">TimeSlicer</h1>
 
-<p id="description">TimeSlicer is a time tracking application that helps you manage your tasks efficiently. This repository contains both the client and server components of the application.</p>
+<p id="description">TimeSlicer is a task tracking application that helps you manage your tasks efficiently. This repository contains both the client and server components of the application.</p>
 
 ![Screenshot 2023-11-19 214409](https://github.com/codewithnadeem14502/TimeSlicer/assets/105824474/ee6d738b-c8dd-4580-af36-28826d53b70d)
 
