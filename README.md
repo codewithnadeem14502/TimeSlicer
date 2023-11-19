@@ -40,7 +40,12 @@ cd server
 npm install
 ```
 
-<p>8. To run the server:</p>
+<p>5. To run the server:</p>
+
+```
+npm start
+```
+
 
 <h2>🍰 Contribution Guidelines:</h2>
 
